@@ -1,6 +1,6 @@
 let boids,boids2;
 function setup() {
-  createCanvas(900, 600);
+  createCanvas(windowWidth, 600);
    background("#FFFFFF");
   boids = [];
   boids2=[];
